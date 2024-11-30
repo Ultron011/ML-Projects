@@ -18,3 +18,6 @@ Simply click the **"Open in Colab"** link to open and run each project.
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_GOOGLE_COLAB_LINK)
 
 ---
+## How to Contribute
+
+Feel free to fork the repository, contribute, or provide feedback!

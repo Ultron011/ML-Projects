@@ -5,7 +5,7 @@ Welcome to my **Machine Learning Projects** repository! Here, I store all of my 
 ---
 
 ## 📂 **Projects List**
-1. [**Rock vs Mine Prediction**](./Rock Vs Mine Prediction)
+1. [**Rock vs Mine Prediction**](./Rock_Vs_Mine Prediction)
 
 ---
 

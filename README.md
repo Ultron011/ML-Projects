@@ -7,6 +7,7 @@ Welcome to my **Machine Learning Projects** repository! Here, I store all of my 
 ## 📂 **Projects List**
 1. **Rock vs Mine Prediction**
 2. **Diabetes Prediction**
+3. **House Price Prediction**
 
 ---
 

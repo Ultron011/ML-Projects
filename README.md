@@ -10,6 +10,7 @@ Welcome to my **Machine Learning Projects** repository! Here, I store all of my 
 3. **House Price Prediction**
 4. **Loan Status Prediction**
 5. **Wine Qaulity Prediction**
+6. **Fake News Prediction**
 
 ---
 

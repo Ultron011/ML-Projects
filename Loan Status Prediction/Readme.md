@@ -70,7 +70,7 @@ Predicting the approval of a loan application is critical for financial institut
 ## 🌐 **Run on Google Colab**  
 You can run this project directly on Google Colab without setting up anything locally.  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_GOOGLE_COLAB_LINK)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PcMRlURdWMmz_ST_qLHkJTyMNb5S-h6y?usp=sharing)
 
 ---
 

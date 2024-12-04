@@ -13,6 +13,7 @@ Welcome to my **Machine Learning Projects** repository! Here, I store all of my 
 6. **Fake News Prediction**
 7. **Gold Price Prediction**
 8. **Car Price Prediction**
+9. **Heart Disease Prediction**
 
 
 ---

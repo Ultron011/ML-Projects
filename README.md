@@ -14,6 +14,7 @@ Welcome to my **Machine Learning Projects** repository! Here, I store all of my 
 7. **Gold Price Prediction**
 8. **Car Price Prediction**
 9. **Heart Disease Prediction**
+10. **Credit Card Fraud Detection**
 
 
 ---
